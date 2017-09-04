@@ -1,0 +1,15 @@
+[pro]
+host = 172.15.1.131
+user = root
+password = rootroot
+database = openstack_log
+socket = '/data/mysql_3306/mysql.sock'
+port = 3306
+
+[localhost]
+host = 172.15.1.131
+user = root
+password = rootroot
+database = openstack_log
+socket = '/data/mysql_3306/mysql.sock'
+port = 3306

@@ -1,0 +1,67 @@
+[pro]
+host = pro.cecakn50ylo9.rds.cn-north-1.amazonaws.com.cn
+user = vipkid
+password = Vi1pkidDb_rootZAQ!
+database = vipkid
+
+[proro]
+host = pro-ro.cecakn50ylo9.rds.cn-north-1.amazonaws.com.cn
+user = vipkid
+password = Vi1pkidDb_rootZAQ!
+database = vipkid
+
+[proro2]
+host = pro-ro2.cecakn50ylo9.rds.cn-north-1.amazonaws.com.cn
+user = vipkid
+password = Vi1pkidDb_rootZAQ!
+database = vipkid
+
+[proro3]
+host = pro-ro3.cecakn50ylo9.rds.cn-north-1.amazonaws.com.cn
+user = vipkid
+password = Vi1pkidDb_rootZAQ!
+database = vipkid
+
+[proro4]
+host = pro-ro4.cecakn50ylo9.rds.cn-north-1.amazonaws.com.cn
+user = vipkid
+password = Vi1pkidDb_rootZAQ!
+database = vipkid
+
+[proro5]
+host = pro-ro5.cecakn50ylo9.rds.cn-north-1.amazonaws.com.cn
+user = vipkid
+password = Vi1pkidDb_rootZAQ!
+database = vipkid
+
+[bi]
+host = 10.0.1.131
+user = cp_read_user
+password = GiGhaBwlBgYI
+database = vipkid
+
+[rep]
+host = 10.0.2.202
+user = op_data
+password = op_data2016
+database = op_data
+
+[beta]
+host = 54.223.74.82
+user = vipkid
+password = Vi1pkidDb_rootZAQ!
+database = vipkid
+
+[local]
+host = 127.0.0.1
+user = root
+password = rootroot
+database = vipkid
+
+
+[beta_slave]
+host = 54.223.89.74
+user = vipkid
+password = Vi1pkidDb_rootZAQ!
+database = vipkid
+

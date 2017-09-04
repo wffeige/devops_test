@@ -1,0 +1,39 @@
+[localhost]
+host = 192.168.153.1
+user = root
+password = rootroot
+database = opsweb
+port=3306
+unix_socket = '/data/mysql_3306/mysql.sock'
+
+
+[ali1]
+host = 60.205.217.237
+user = wangfei
+port=3306
+password = Wffeige050619050619@123@121adasq!fwecff@
+database = test
+unix_socket = /data/mysql_3306/mysql.sock
+
+
+[ali2]
+host = 112.74.96.219
+user = wangfei
+password = Wffeige050619050619@123@121adasq!fwecff@
+database = test
+port=3306
+unix_socket = /var/lib/mysql/mysql.sock
+
+
+[tencent]
+host = 182.254.139.95
+user = wangfei
+password = 'Wffeige050619050619@123@121adasq!fwecff@'
+database = test
+port=3306
+unix_socket = /data/mysql_3306/mysql.sock
+
+
+[ali_sql]
+
+[td_sql]
