@@ -1,4 +1,0 @@
-openstack 日志表
-
-
- create table t5 (id int auto_increment,hostname varchar(50),module varchar(50),service varchar(50),name varchar(20),log_level varchar(10),operation varchar(20),log_message json ,updatetime timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP, key(id));

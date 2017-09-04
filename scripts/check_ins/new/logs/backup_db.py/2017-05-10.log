@@ -1,2 +1,0 @@
-2017-05-11 18:13:16,107 [backup_db.py][DEBUG] back /data/db_data_bak/mysqldump/2017-05-10/ali2/SimpletourDevops.sql ok! time is 2017-05-11 18:13:16
-2017-05-11 18:25:13,967 [backup_db.py][DEBUG] back /data/db_data_bak/mysqldump/2017-05-10/ali1/zabbix.sql ok! time is 2017-05-11 18:25:13

@@ -1,6 +1,0 @@
-[pro]
-host = 172.15.1.121
-user = root
-password = rootroot
-database = openstack_log
-socket = '/data/mysql_3306/mysql.sock'
